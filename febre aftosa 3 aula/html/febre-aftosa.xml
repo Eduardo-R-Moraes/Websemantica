@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<febreAftosa>
+    <informacoesGerais>
+        <nome>febre aftosa</nome>
+        <nomeCientifico>Aphtae epizooticae</nomeCientifico>
+        <descricao>
+            a febre aftosa é uma doença viral altamente contagiosa que afeta bovinos, suínos, ovinos, caprinos e outros animais com casco fendido.
+            a doença é causada pelo vírus da febre aftosa, que pertence ao gênero aphthovirus, da família picornaviridae.
+        </descricao>
+    </informacoesGerais>
+    <sintomas>
+        <sintoma>
+            <nome>lesões na boca</nome>
+            <descricao>feridas ou vesículas que aparecem na boca dos animais, dificultando a alimentação.</descricao>
+        </sintoma>
+        <sintoma>
+            <nome>febre alta</nome>
+            <descricao>os animais infectados frequentemente apresentam febre alta nos estágios iniciais da doença.</descricao>
+        </sintoma>
+        <sintoma>
+            <nome>claudicação</nome>
+            <descricao>manifestações de dor ao caminhar, devido a lesões nos cascos.</descricao>
+        </sintoma>
+    </sintomas>
+    <transmissao>
+        <modoPrimario>
+            <descricao>contato direto com animais infectados ou secreções corporais.</descricao>
+        </modoPrimario>
+        <modoSecundario>
+            <descricao>contato com objetos contaminados, como equipamentos de fazendas ou veículos.</descricao>
+        </modoSecundario>
+    </transmissao>
+    <prevencao>
+        <medida>
+            <nome>vacinação</nome>
+            <descricao>a vacinação periódica dos animais é a medida preventiva mais eficaz.</descricao>
+        </medida>
+        <medida>
+            <nome>controle de movimentação</nome>
+            <descricao>restrições na movimentação de animais entre áreas podem ajudar a prevenir a propagação da doença.</descricao>
+        </medida>
+    </prevencao>
+    <tratamento>
+        <descricao>atualmente, não existe um tratamento específico para a febre aftosa. o controle da doença se baseia em medidas de contenção, vacinação e abate de animais infectados.</descricao>
+    </tratamento>
+</febreAftosa>

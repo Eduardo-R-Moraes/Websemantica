@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+article {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.nome, .nomeCientifico, .descricao, .sintoma, .modoPrimario, .modoSecundario, .medida {
+    margin: 10px 0;
+}
+
+.sintomas, .prevencao, .transmissao, .tratamento {
+    padding: 10px;
+    border-left: 4px solid #007BFF;
+}

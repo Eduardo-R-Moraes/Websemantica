@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FebreAftosa>
+    <informacoesGerais>
+        <nome>Nome: febre aftosa</nome>
+        <nomeCientifico>Nome Científico: Aphtae epizooticae</nomeCientifico>
+        <descricao>
+            Descrição: A febre aftosa é uma doença viral altamente contagiosa que afeta bovinos, suínos, ovinos, caprinos e outros animais com casco fendido. 
+            A doença é causada pelo vírus da febre aftosa, que pertence ao gênero aphthovirus, da família picornaviridae.
+        </descricao>
+    </informacoesGerais>
+    <sintomas>
+        <nome>Sintoma: lesões na boca</nome>
+        <descricao>Descrição: Feridas ou vesículas que aparecem na boca dos animais, dificultando a alimentação.</descricao>
+        <nome>Sintoma: febre alta</nome><descricao>Descrição: Os animais infectados frequentemente apresentam febre alta nos estágios iniciais da doença.</descricao><nome>Sintoma: claudicação</nome><descricao>Descrição: Manifestações de dor ao caminhar, devido a lesões nos cascos.</descricao></sintomas><transmissao><descricao>Modo Primário: Contato direto com animais infectados ou secreções corporais.</descricao><descricao>Modo Secundário: Contato com objetos contaminados, como equipamentos de fazendas ou veículos.</descricao></transmissao><prevencao><nome>Medida: vacinação</nome><descricao>Descrição: A vacinação periódica dos animais é a medida preventiva mais eficaz.</descricao><nome>Medida: controle de movimentação</nome><descricao>Descrição: Restrições na movimentação de animais entre áreas podem ajudar a prevenir a propagação da doença.</descricao></prevencao><tratamento><descricao>Descrição: Atualmente, não existe um tratamento específico para a febre aftosa. O controle da doença se baseia em medidas de contenção, vacinação e abate de animais infectados.</descricao></tratamento></FebreAftosa>

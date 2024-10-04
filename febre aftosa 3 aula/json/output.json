@@ -1,0 +1,21 @@
+{
+    "informacoesGerais": {
+        "nome": "Nome: febre aftosa",
+        "nomeCientifico": "Nome Científico: Aphtae epizooticae",
+        "descricao": "Descrição: A febre aftosa é uma doença viral altamente contagiosa que afeta bovinos, suínos, ovinos, caprinos e outros animais com casco fendido. \n                A doença é causada pelo vírus da febre aftosa, que pertence ao gênero aphthovirus, da família picornaviridae."
+    },
+    "sintomas": {
+        "nome": "Sintoma: claudicação",
+        "descricao": "Descrição: Manifestações de dor ao caminhar, devido a lesões nos cascos."
+    },
+    "transmissao": {
+        "descricao": "Modo Secundário: Contato com objetos contaminados, como equipamentos de fazendas ou veículos."
+    },
+    "prevencao": {
+        "nome": "Medida: controle de movimentação",
+        "descricao": "Descrição: Restrições na movimentação de animais entre áreas podem ajudar a prevenir a propagação da doença."
+    },
+    "tratamento": {
+        "descricao": "Descrição: Atualmente, não existe um tratamento específico para a febre aftosa. O controle da doença se baseia em medidas de contenção, vacinação e abate de animais infectados."
+    }
+}
