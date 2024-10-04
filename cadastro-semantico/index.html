@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Cadastro semântico</title>
+</head>
+<body>
+    <header>
+        <h1>Cadastro de insumo agrícola</h1>
+    </header>
+
+    <main>
+        <form>
+            <div class="imagem">
+                <label for="arquivo">
+                    <span class="imagemPreview"></span>
+                </label>
+                <input type="file" id="arquivo" accept="image/*" class="imagem_produto">
+            </div>
+
+            <div class="textos">
+                <div class="campo">
+                    <label>Nome</label>
+                    <input type="text" placeholder="Nome" class="nome_produto">
+                </div>
+                <div class="campo">
+                    <label>Nome do vendedor</label>
+                    <input type="text" placeholder="Nome do vendedor" class="nome_vendedor">
+                </div>
+                <div class="campo">
+                    <label>Descrição</label>
+                    <textarea name="descrição" placeholder="Descrição sobre o produto" id="Descrição" rows="5"></textarea>
+                </div>
+                <div class="campo">
+                    <label>Preço</label>
+                    <input type="number" placeholder="Preço" class="preço">
+                </div>
+
+                <button type="submit">Salvar</button>
+            </div>
+        </form>
+    </main>
+    <script src="index.js"></script>
+</body>
+</html>
